@@ -6,6 +6,6 @@ An NBFI is struggling to mark profits due to an increase in defaults in the vehi
 
 Goal: The goal of the problem is to predict whether a client will default on the vehicle loan payment or not. For each ID in the Test_Dataset, you must predict the “Default” level.
 
-Datasets The problem contains two datasets, Train_Dataset and Test_Dataset. Model building is to be done on Train_Dataset and the Model testing is to be done on Test_Dataset. The output from the Test_Dataset is to be submitted to the Hackathon platform.
+Datasets The problem contains two datasets, Train_Dataset and Test_Dataset. Model building is to be done on Train_Dataset and the Model testing is to be done on Test_Dataset. 
 
-Metric to measure The metric to measure is the F1_Score. F1_Score is the harmonic mean of Recall and Precision. In this Hackathon, you will get the F1_Score of 1. Please visit the link for more details on F1_Score- https://en.wikipedia.org/wiki/F-score
+Metric to measure The metric to measure is the F1_Score. F1_Score is the harmonic mean of Recall and Precision. 
